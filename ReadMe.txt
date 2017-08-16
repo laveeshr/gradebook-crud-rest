@@ -1,6 +1,5 @@
 Build and Run Instructions - 
-- Unzip the file CRUD-GradeBook-lrohra
-- Inside the directory, import the project CRUD-GradeBook-lrohraSrv and then CRUD-GradeBook-lrohraCli
+- Import the project CRUD-GradeBook-lrohraSrv and then CRUD-GradeBook-lrohraCli
 - Clean Build the Server project.
 - After build successful, Run the project (a new window will open on a browser with content "GradeBook deployed successfully!")
 - Similarly, clean build the client project.
