@@ -1,7 +1,3 @@
-Name - Laveesh Rohra
-ASUID - 1211165355
-
-
 Build and Run Instructions - 
 - Unzip the file CRUD-GradeBook-lrohra
 - Inside the directory, import the project CRUD-GradeBook-lrohraSrv and then CRUD-GradeBook-lrohraCli
